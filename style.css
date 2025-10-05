@@ -124,7 +124,7 @@ header {
 }
 
 .home-text h1 {
-    color: var(--bg-colour);
+    color: black;
     font-size: 2rem;
     margin-bottom: 1rem;
 }
@@ -431,4 +431,5 @@ header {
     margin-top: 40px;
     border: 1px solid #192f6a;
     margin: auto;
+
 }
